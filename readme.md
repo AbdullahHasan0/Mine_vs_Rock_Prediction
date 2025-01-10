@@ -1,5 +1,5 @@
 <h1>🌊 Sonar Data Prediction Model 🚀</h1>
---
+
 
 Welcome to the Sonar Data Prediction Model project! This project predicts whether an object detected by sonar equipment is a rock or a mine based on sonar readings. Using a Logistic Regression model, we analyze sonar data and predict the type of object detected. 🔍
 
